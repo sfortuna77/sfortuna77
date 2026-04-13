@@ -91,7 +91,7 @@ about_me.day_hello()
 ## 🏆 Troféus do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sfortuna77&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sfortuna77&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -107,7 +107,7 @@ about_me.day_hello()
 ## 💥 Atividade no GitHub
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sfortuna77&theme=radical&bg_color=0a0a0a&hide_border=true&hide=prs" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=sfortuna77&theme=gruvbox-dark&bg_color=0a0a0a&hide_border=true&hide=prs" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 ---
