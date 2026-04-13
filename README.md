@@ -15,8 +15,9 @@
         lines=Desenvolvedor+Python;
         Especialista+em+Django;
         Aprendendo+JavaScript;
+        Fazendo Pós em Engenharia de Software com IA Aplicada;
         Sempre+codando...+%F0%9F%92%BB"
-    alt="Typing SVG" />
+    alt="Typing SVG - Sergius Fortuna" />
 
 </div>
 
@@ -25,7 +26,7 @@
 ## 🚀 Sobre Mim
 
 ```python
-class Desenvolvedor:
+class Developer:
     def __init__(self):
         self.nome = "Sergius Fortuna"
         self.idade = 48
@@ -35,11 +36,11 @@ class Desenvolvedor:
         self.aprendendo = ["JavaScript", "React"]
         self.paixoes = ["Programação", "Tecnologia", "Inovação"]
     
-    def dizer_ola(self):
+    def say_hello(self):
         print("Obrigado por visitar meu perfil! Vamos codar juntos? 🚀")
 
-eu = Desenvolvedor()
-eu.dizer_ola()
+about_me = Developer()
+about_me.day_hello()
 ```
 
 🔭 **Atualmente trabalhando em:** Projetos Django e aprimorando habilidades em JavaScript  
@@ -74,7 +75,7 @@ eu.dizer_ola()
 
 ---
 
-## �� Estatísticas do GitHub
+## ⭐⭐⭐ Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sfortuna77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -87,10 +88,10 @@ eu.dizer_ola()
 
 ---
 
-## �� Troféus do GitHub
+## 🏆 Troféus do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sfortuna77&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sfortuna77&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -103,15 +104,15 @@ eu.dizer_ola()
 
 ---
 
-## �� Atividade no GitHub
+## 💥 Atividade no GitHub
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sfortuna77&theme=tokyo-night&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=sfortuna77&theme=radical&bg_color=0a0a0a&hide_border=true&hide=prs" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
-## �� Projetos em Destaque
+## 🎞️ Projetos em Destaque
 
 <div align="center">
 
@@ -142,18 +143,18 @@ eu.dizer_ola()
 ## 💼 Experiência Profissional
 
 ```python
-experiencia = {
-    "atual": {
-        "cargo": "Controler",
-        "empresa": "Igreja Batista da Cidade em São José dos Campos",
-        "periodo": "01/abr/2013",
-        "tecnologias": ["Python", "Django", "HTML", "CSS"]
+experience = {
+    "actual": {
+        "position": "Controller",
+        "company": "Igreja Batista da Cidade em São José dos Campos",
+        "period": ["01/abr/2013", "today", "13 years"],
+        "skills": ["Python", "Django", "JavaScript", "HTML", "CSS"]
     },
-    "anterior": {
-        "cargo": "[CARGO_ANTERIOR]",
-        "empresa": "[EMPRESA_ANTERIOR]",
-        "periodo": "[PERIODO]",
-        "tecnologias": ["Python", "Web Development"]
+    "previus": {
+        "position": "Director",
+        "company": "Farmaprod (Ache Company)",
+        "period": "[PERIODO]",
+        "skills": ["VBA", "Access", "PHP"]
     }
 }
 ```
@@ -180,10 +181,9 @@ experiencia = {
 
 ## 🎯 Quando não estou codando...
 
-- 🎵 Escutando música
-- 📚 Lendo sobre tecnologia
-- 🎮 Jogando videogames
-- 🏃‍♂️ Praticando esportes
+- 🎵 Escutando música na academia
+- 📚 Lendo livros sobre tecnologia e finanças
+- 🎮 Jogando videogame
 - 🌍 Explorando novas tecnologias
 
 ---
@@ -203,47 +203,5 @@ experiencia = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
+
 ```
-
-## �� Como usar:
-
-1. **Copie todo o código acima**
-2. **Crie um arquivo chamado `README.md`** no repositório com o mesmo nome do seu usuário GitHub
-3. **Cole o código** no arquivo
-4. **Substitua todos os placeholders** (textos entre colchetes) com suas informações reais
-5. **Commit e push** para o GitHub
-
-**Exemplo:** Se seu usuário GitHub é `joaosilva`, crie um repositório chamado `joaosilva` e adicione este README.md lá.
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sfortuna77)
-
-![](https://komarev.com/ghpvc/?username=sfortuna77)
-
-Olá, meu nome é {{name}}
-
-
-<!-- Links de referência no final do arquivo -->
-[github]: https://github.com/seuusuario
-[linkedin]: https://linkedin.com/in/seuusuario
-[instagram]: https://instagram.com/seuusuario
-
-<!-- Usando no texto -->
-[![GitHub][github-badge]][github]
-[![LinkedIn][linkedin-badge]][linkedin]
-
-
-<!-- Badges como "variáveis" -->
-[github-badge]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-[linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
-
-<!-- "Variáveis" definidas no final do arquivo -->
-[meu-nome]: # "João Silva"
-[minha-idade]: # "25"
-[minha-cidade]: # "São Paulo, SP"
-
-<!-- Usando no texto -->
-# 👋 Olá, eu sou [João Silva][meu-nome]!
-
-Tenho [25][minha-idade] anos e moro em [São Paulo, SP][minha-cidade].
